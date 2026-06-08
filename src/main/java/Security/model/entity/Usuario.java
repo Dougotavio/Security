@@ -1,5 +1,5 @@
 
-package Security.model.entity;
+package security.model.entity;
 
 public class Usuario {
 
